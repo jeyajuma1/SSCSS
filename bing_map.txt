@@ -1,0 +1,9 @@
+Map Link : https://www.bingmapsportal.com/isdk/ajaxv7#SearchModule1
+
+Choose your Bing Maps API : www.microsoft.com/maps/choose-your-bing-maps-API.aspx#mapsOperatorBenefits1
+
+Rest API  : https://msdn.microsoft.com/en-us/library/ff701725.aspx
+
+SDK  : https://msdn.microsoft.com/en-us/library/gg427617.aspx
+
+Developer Portal : https://www.bingmapsportal.com/isdk/ajaxv7#Pushpins5
